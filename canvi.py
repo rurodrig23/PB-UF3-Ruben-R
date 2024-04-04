@@ -2,8 +2,8 @@ import os
 
 ruta_fitxer = input("Introduïu la ruta del fitxer: ")
 
-pd = open("/home/alumne_1r/Escriptori/PB/PB-UF3-Ruben-R/canvi.py","r")
+pd = open("ruta_fitxer","r")
 
-os.listdir()
+os.rename()
 
 print(pd)
