@@ -10,8 +10,3 @@ import os
 6. Eliminar la carpeta original una vez que esté vacía.
 
 '''
-
-
-
-
-
